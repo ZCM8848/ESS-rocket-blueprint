@@ -1,0 +1,10 @@
+
+/Programs/ThrustRecorder/Train
+/Programs/ThrustRecorder/runs
+/Programs/ThrustRecorder/Scripts/__pycache__
+*.mp4
+*.pyc
+*.pyc
+*.pyc
+*.pyc
+/Programs/ThrustRecorder/__pycache__
