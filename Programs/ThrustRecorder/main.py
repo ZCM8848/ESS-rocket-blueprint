@@ -4,8 +4,8 @@ from ultralytics import YOLO
 # define consts
 video_to_process = ".\\src\\main.mp4"
 curve = {}
-model1 = YOLO(".\\Models\\model_123.pt")
-model2 = YOLO(".\\Models\\model_180.pt")
+model1 = YOLO(".\\Models\\model_180.pt")
+model2 = YOLO(".\\Models\\model_123.pt")
 name = {0: '0', 1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 7: '7', 8: '8', 9: '9', 10: '.', 11: '.'}
 
 # preprocess

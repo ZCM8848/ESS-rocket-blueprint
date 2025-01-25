@@ -1,0 +1,13 @@
+train: D:\projects\ESS-rocket-blueprint\Programs\ThrustRecorder\Train\dataset\train
+val: D:\projects\ESS-rocket-blueprint\Programs\ThrustRecorder\Train\dataset\valid
+test: D:\projects\ESS-rocket-blueprint\Programs\ThrustRecorder\Train\dataset\test
+
+nc: 11
+names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'dot']
+
+roboflow:
+  workspace: ess-v08sd
+  project: digital-tube-recognition
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ess-v08sd/digital-tube-recognition/dataset/7
